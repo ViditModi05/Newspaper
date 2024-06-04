@@ -121,7 +121,7 @@ h5{
   .container{
     grid-template-columns: .5fr .5fr .25fr;
     grid-template-rows: 100px 40px 500px 529px;
-    height: 70%;
+    height: 60%;
     grid-column-gap: 10px;
   }
   .flex-container{
